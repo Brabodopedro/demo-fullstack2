@@ -34,7 +34,12 @@ demo-fullstack2/
 └── vite-react-auth/
     └── src/
         ├── pages/
+                ├── Dashboard.jsx
+                ├── Home.jsx
+                ├── Login.jsx
         ├── components/
+                ├── ProtectedRoute.jsx
+                ├── Sidebar.jsx
         ├── App.jsx
         ├── main.jsx
         └── index.css
