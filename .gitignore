@@ -1,0 +1,21 @@
+# React (Vite)
+node_modules/
+dist/
+dist-ssr/
+*.log
+
+# Python (FastAPI)
+venv/
+__pycache__/
+*.pyc
+.env
+
+# IDEs e arquivos do sistema
+.vscode/
+.idea/
+.DS_Store
+*.sw?
+*.suo
+*.sln
+*.njproj
+*.ntvs*
